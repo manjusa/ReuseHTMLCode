@@ -1,2 +1,3 @@
-# qrcodegeneration
- qrcodegeneration and read using Javascript
+# ReuseHTML
+
+ReuseHTML code and dynamically insert generic code in a HTML page using jQuery
